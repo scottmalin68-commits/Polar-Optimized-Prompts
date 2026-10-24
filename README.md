@@ -19,6 +19,12 @@ Testing how structured AI frameworks behave when optimized for Polar’s environ
   <img src="https://img.shields.io/github/stars/scottmalin68-commits/Polar-Optimized-Prompts?style=for-the-badge">
 </p>
 
+<p align="center">
+  <a href="https://polarbrowser.com/r/scott-xm">
+    <img src="https://img.shields.io/badge/Download-Polar_Browser-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Download Polar Browser">
+  </a>
+</p>
+
 ---
 
 # 📘 Overview
@@ -26,6 +32,8 @@ Testing how structured AI frameworks behave when optimized for Polar’s environ
 This repository is a **sandbox for Polar-optimized prompt experiments**.
 
 I’m testing variations of existing frameworks (job-search intelligence, scam detection, LinkedIn tools, etc.) to see how they perform when tuned specifically for the Polar browser. These are not yet production-hardened — they’re working drafts and comparison points against the main prompt libraries.
+
+**Download Polar:** [https://polarbrowser.com/r/scott-xm](https://polarbrowser.com/r/scott-xm)
 
 **Current focus areas:**
 - Job posting intelligence and scanning
